@@ -1,8 +1,8 @@
-Q1: What is DevOps:
+```What is DevOps:```
 
 DevOps is a combination of practices and tools that allow a business to be able to deliver applications and services at high velocity. This means improving, evolving iterations at a faster pace, in comparison to the traditional software development and management process. DevOps engineers work in a single team, from an entire application lifecycle; development and test to deployment to operations. This means multiple skills are exercised, not specific to one single function. 
 
-Why DevOps:
+```Why DevOps:```
 
 It is a culture and set of processes, bringing deployment and operations teams together to complete software deployment. 
 
@@ -12,7 +12,7 @@ It is a culture and set of processes, bringing deployment and operations teams t
 
 - Increased efficiencies - helps speed the development process and make it less prone to error. DevOps tasks can be automated, continuous integration servers automate the process of testing code. Software engineers can then focus on completing tasks that cannot be automated.
 
-Challenges of DevOps:
+```Challenges of DevOps:```
 
 - Blending multiple different people to work together - multiple people working on software developments can cause havoc and multiple iterations of development can occur. 
 
@@ -24,7 +24,7 @@ Challenges of DevOps:
 
 - Continuous integration - This can be problematic because some tools could belong to various different domains on one common platform. 
 
-Benefits of DevOps:
+```Benefits of DevOps:```
 
 - Faster delivery time: Using the agile methodology; automation, continous delivery and quick feedback cycle is implemented to make the software development process faster and more efficient. DevOps utilizes automation to ensure a smooth flow of the SDLC. The collaborative culture offers quick and continous feedback, promoting multiple iterations of software development. 
 
