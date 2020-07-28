@@ -1,3 +1,5 @@
+In this repository, you will find an introduction to DevOps and what the field entails. 
+
 ```What is DevOps:```
 
 DevOps is a combination of practices and tools that allow a business to be able to deliver applications and services at high velocity. This means improving, evolving iterations at a faster pace, in comparison to the traditional software development and management process. DevOps engineers work in a single team, from an entire application lifecycle; development and test to deployment to operations. This means multiple skills are exercised, not specific to one single function. 
